@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Web3 Payment Solution](paytres.com)<a href="https://paytres.com" target="_blank">Open link in new window</a>
+- 🔭 I’m currently working on [Web3 Payment Solution](paytres.com){:target="_blank"}
 
 - 🌱 I’m currently learning **NEXT 15 RC**
 
