@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Web3 Payment Solution](paytres.com){:target="_blank"}
+- 🔭 I’m currently working on <a href="http://paytres.com/" target="_blank">Web3 Payment Solution</a>
 
 - 🌱 I’m currently learning **NEXT 15 RC**
 
-- 👯 I’m looking to collaborate on [Moomoth Media](moomothmedia.com)
+- 👯 I’m looking to collaborate on <a href="http://moomothmedia.com/" target="_blank">MERN Full Stack, WEB3, Blockchain, dApps</a>
 
-- 🤝 I’m looking for help with [NFT Marketplace](raresto.com)
+- 🤝 I’m looking for help with <a href="http://raresto.com/" target="_blank">NFT Checkout by Card</a>
 
 - 💬 Ask me about **Web3, NEXT, CI/CD**
 
