@@ -23,7 +23,7 @@
 <p align="left">
 </p>
 
-<body class="bg-gray-100 text-gray-900">
+
     <div class="container mx-auto p-8">
         <h3 class="text-2xl font-bold mb-4">Languages and Tools:</h3>
 
